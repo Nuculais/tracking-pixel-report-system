@@ -1,0 +1,7 @@
+timestamp,url,userid
+2014-07-02 08:00:00UTC,/page1.php,anna
+2014-07-03 08:30:00UTC,/page2.php,beata
+2014-07-03 10:00:00UTC,/page2.php,beata
+2014-07-03 11:01:00UTC,/page3.php,anna
+2014-07-03 12:00:00UTC,/page3.php,clarissa
+2014-07-08 15:00:00UTC,/page2.php,daniella
